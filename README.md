@@ -1,5 +1,21 @@
 # 👋 Hi, I’m @Is-2m
 
+    🔮 Unlocking the magic of code and folding creativity! ✨📜 Expecto Patronum 🪄
+
+    🪄 Folding paper into fantastical creatures while coding spells for digital wonders. 📦✨
+
+    🚀 Constantly brewing enchanting algorithms and charming the terminal with my incantations. ⚡🔢
+
+    📚 Exploring the Hogwarts of JavaScript, the Forbidden Forest of Python, and the Diagon Alley of CSS. 🐍🧪✨
+
+    🤪 Silly jokes are my magical quill, always ready to cast the spell of laughter. 😆✨ Accio chuckles!
+
+    ⚡ When I'm not brewing magic, you can find me curled up with a book or chasing golden snitches in the Muggle
+    world. 📚🏃‍♂️🧹
+
+    🌟 Join me on this whimsical journey as we unravel the mysteries of code and fold dreams into reality! Lumos!
+    ✨✨
+
 ## ✨ Software Development with a focus on Mobile and Backend
 
 ## 🌱 Intern at ENSAF, developing an Odoo application with Python/PostgreSQL
