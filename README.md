@@ -18,7 +18,7 @@
 
 ## ✨ Software Development with a focus on Mobile and Backend
 
-## 🌱 Intern at ENSAF, developing an Odoo application with Python/PostgreSQL
+<!-- ## 🌱 Intern at ENSAF, developing an Odoo application with Python/PostgreSQL -->
 
 ## 📫 Contact me at [isam.soufiane1@gmail.com](mailto:isam.soufiane1@gmail.com)
 
